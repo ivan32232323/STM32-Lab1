@@ -1,0 +1,12 @@
+build/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+wokwi.vcd
