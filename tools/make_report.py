@@ -30,7 +30,7 @@ H = {
     'shots':      _work,
 }
 STUDENT, GROUP, COURSE, TEACHER = 'Шведенко Іван Олексійович', 'ІО-32', '4', 'Гордієнко Н.Ю.'
-VIDEO = '[посилання на відео буде додано]'
+VIDEO = 'https://drive.google.com/file/d/15Tuk2tR58jG7Luy_9tcF-AocN-c1Bi57/view?usp=sharing'
 
 TITLE = [
     ('c', 'Міністерство освіти і науки України'),

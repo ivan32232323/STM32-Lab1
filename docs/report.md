@@ -209,7 +209,7 @@ PWM на виводі серво:
 
 # 6. Відеозвіт
 
-Відео (2–3 хв): представлення, запуск прошивки у Wokwi і лог UART: [посилання на відео буде додано]
+Відео (2–3 хв): представлення, запуск прошивки у Wokwi і лог UART: https://drive.google.com/file/d/15Tuk2tR58jG7Luy_9tcF-AocN-c1Bi57/view?usp=sharing
 
 # 7. PRD (Product Requirements Document)
 
